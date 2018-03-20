@@ -1,0 +1,12 @@
+c:\users\hc\documents\visual studio 2017\Projects\Test\Test\bin\Debug\Test.exe
+c:\users\hc\documents\visual studio 2017\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\hc\documents\visual studio 2017\Projects\Test\Test\bin\Debug\Ivony.Core.dll
+c:\users\hc\documents\visual studio 2017\Projects\Test\Test\bin\Debug\Ivony.Html.dll
+c:\users\hc\documents\visual studio 2017\Projects\Test\Test\bin\Debug\Ivony.Html.Parser.dll
+c:\users\hc\documents\visual studio 2017\Projects\Test\Test\bin\Debug\Ivony.Html.Parser.Regulars.dll
+c:\users\hc\documents\visual studio 2017\Projects\Test\Test\bin\Debug\Ivony.Core.xml
+c:\users\hc\documents\visual studio 2017\Projects\Test\Test\bin\Debug\Ivony.Html.xml
+c:\users\hc\documents\visual studio 2017\Projects\Test\Test\bin\Debug\Ivony.Html.Parser.xml
+c:\users\hc\documents\visual studio 2017\Projects\Test\Test\obj\Debug\Test.exe
+c:\users\hc\documents\visual studio 2017\Projects\Test\Test\obj\Debug\Test.pdb
+C:\Users\HC\Documents\Visual Studio 2017\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
